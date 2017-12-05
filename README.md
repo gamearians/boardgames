@@ -13,6 +13,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 # Table of Contents
 - [Print and Play](#print-and-play)
 - [3D Print](#3d-print)
+- [RPG](#rpg)
 
 -------
 
@@ -24,4 +25,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 # 3D Print
 * [GROT board game](https://github.com/stxnext/grot-board-game) - GROT (ang. arrowhead) is a logic game about making the most valuable chains possible.
-* [Dueling Masters of Space Time](https://github.com/smcameron/dueling-masters-of-space-time) - This game is a two player strategy board game. 
+* [Dueling Masters of Space Time](https://github.com/smcameron/dueling-masters-of-space-time) - This game is a two player strategy board game.
+
+# RPG
+* [SirenRPG](https://github.com/ElectricCoffee/SirenRPG) - Open source tabletop RPG that focuses on being fairly easy to use. 
