@@ -21,6 +21,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Delta game](https://gist.github.com/brannondorsey/5d17c6a85d3408199efa) - It is a abstract game for two player with the triangles pieces.
 * [El Mapa](https://github.com/saulroc/El-Mapa) - A spanish print and play game inspired in the videogame H&M 3.
 * [Dungeon deck](https://github.com/jhauberg/dungeon-deck) - A card game, it is in early stages.
+* [Spot-It](https://github.com/aaronbarker/spot-it) - spot it like game where you can provide your own text or images 
 * [Trick Book](https://github.com/jhauberg/trickbook) - A fast-paced card game about skateboarding for 2-5 players.
 
 # 3D Print
